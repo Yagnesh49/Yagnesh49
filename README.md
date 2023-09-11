@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi my name is Yagnesh👋
 
 **Yagnesh49/Yagnesh49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on Microplastics in marine fishes of north-east arabian coast
+- 🔭 I’m currently working on my computer
 - 🌱 I’m currently learning machine learning based coding programmes such as R, PYTHON and MATLAB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
